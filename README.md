@@ -59,3 +59,4 @@ updatetime:2022.04.22
 安装包： 目录下 requirements.txt文件
 	打开当前目录的dos窗口 输入 pip install -r  requirements.txt
 
+有代码相关需求的可以添加我的qq 2934218525，本代码仅供个人参考交流探讨更优方案等。
