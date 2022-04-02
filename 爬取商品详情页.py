@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 @Time ： 2022/3/30 14:23
-@Auth ： wes陈维炜
-@File ：extract_data.py
+@Auth ： wes
+File ：extract_data.py
 @IDE ：PyCharm
 @email：2934218525@qq.com
+爬取商品详情页 链接在links.txt中
 
 """
 import time
