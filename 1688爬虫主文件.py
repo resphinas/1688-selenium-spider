@@ -4,7 +4,7 @@
 @Auth ： wes
 @File ：1688_goods_spider.py
 @IDE ：PyCharm
-@email：2934218525@qq.com
+@email：
 
 """
 import time
